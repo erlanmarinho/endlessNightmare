@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Criamos uma página web ENDLESS NIGHTMARE, com HTML semântico e alguns conceitos de box-model.
 
-- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explrorerFlutuar/)
+- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/endlessNightmare/)
 
 
 
